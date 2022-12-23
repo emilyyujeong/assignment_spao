@@ -258,7 +258,7 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    border-bottom: 1px solid #f0f0f0;
+    border-bottom: 1px solid #ddd;
 }
 
 .mainContent .inner .pri {

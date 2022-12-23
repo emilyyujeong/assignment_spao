@@ -660,10 +660,12 @@
 .footer .top .cs {
     margin: 0 0 30px 0;
     color: #909090;
+    line-height: 27px;
 }
 
 .footer .top .cp {
     color: #909090;
+    line-height: 25px;
 }
 
 .footer .top .sns {

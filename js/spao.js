@@ -7,6 +7,7 @@ $(function () {
     $('.mainSlide').slick({
         dots: true,
         autoplay: true,
+        fade: true,
         autoplaySpeed: 4000,
         pauseOnHover: false,
         pauseOnFocus: false,
